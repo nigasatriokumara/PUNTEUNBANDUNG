@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/kevinreynaldi/Branches" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nigasatriokumara/PUNTEUNBANDUNG.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Kevin\AndroidStudioProjects\PUNTEUNBANDUNG-a0d257e8e1dfced23f038780932bfe510b39983e" />
+    <option name="cloneParentDir" value="C:\Users\Kevin\AndroidStudioProjects\ACTIVITY 4" />
   </component>
 </application>
