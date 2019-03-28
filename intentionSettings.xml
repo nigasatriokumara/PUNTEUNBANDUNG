@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+  </component>
+</application>
