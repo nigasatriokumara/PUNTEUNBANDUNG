@@ -5,5 +5,6 @@
     <ignoreAction name="Language Injection/Edit Injection Settings" />
     <ignoreAction name="Android/Override Resource in Other Configuration..." />
     <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+    <ignoreAction name="Android/Create onClick event handler" />
   </component>
 </application>
