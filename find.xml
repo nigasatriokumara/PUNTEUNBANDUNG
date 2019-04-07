@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'KEVIN_1202162378_SI40INT_PAB_MODUL52'" />
-    <option name="defaultScopeName" value="Project 'KEVIN_1202162378_SI40INT_PAB_MODUL52'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'KEVIN_1202162378_SI40INT_PAB_MODUL52'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
